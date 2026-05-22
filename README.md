@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://pritish-ranjan-sahoo.vercel.app/](https://pritish-ranjan-sahoo.vercel.app/)
+- 👨‍💻 All of my projects are available at my [website](https://pritish-ranjan-sahoo.vercel.app/). Please Check it out.
 
-- 📫 How to reach me **pritishsahoo8338@gmail.com**
+- 📫 How to reach me - **pritishsahoo8338@gmail.com**
 
-- 📄 Know about my experiences [https://pritish-ranjan-sahoo.vercel.app/CV_Pritish_Ranjan_Sahoo.pdf](https://pritish-ranjan-sahoo.vercel.app/CV_Pritish_Ranjan_Sahoo.pdf)
+- 📄 Know about my experiences - [CV_Pritish_Ranjan_Sahoo](https://pritish-ranjan-sahoo.vercel.app/CV_Pritish_Ranjan_Sahoo.pdf)
 
-- ⚡ Fun fact **99% of recruiters who visited this profile smiled. The other 1% forgot to pull latest changes.**
+- ⚡ Fun fact - **99% of recruiters who visited this profile smiled. The other 1% forgot to pull latest changes.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
